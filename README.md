@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OpeDada
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning HTML, CSS, Javascript, and Ruby
-- 💞️ I’m looking to collaborate 
+- 🌱 I’m currently learning HTML, CSS, Javascript, and Ruby on Rails
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: opedada@gmail.com
 
 <!---
