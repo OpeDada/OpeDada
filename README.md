@@ -3,7 +3,7 @@
 
 - 🔭 I currently work using **Ruby on Rails, HTML, CSS, and JS**
 
-- 🌱 Presently learning how to use ** Vue.js **
+- 🌱 Presently learning how to use **Vue.js**
 
 - 👯 I’m looking to collaborate on **fun projects**
 
