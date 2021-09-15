@@ -3,7 +3,7 @@
 
 - 🔭 I currently work using **Ruby on Rails, HTML, CSS, and JS**
 
-- 🌱 Presently enrolled in the **[30-Day Vanilla JS](https://javascript30.com/)** challenge
+- 🌱 Presently learning how to use ** Vue.js **
 
 - 👯 I’m looking to collaborate on **fun projects**
 
