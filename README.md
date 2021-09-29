@@ -5,6 +5,8 @@
 
 - 🌱 Presently working on the **[Javascript in 30 days coding challenge](https://courses.wesbos.com/account)**
 
+- 👨‍💻 All of my projects are available **[on my portfolio](https://opedada.me/)**
+
 - 👯 I’m looking to collaborate on **fun projects**
 
 - 📫 How to reach me **opedada@gmail.com**
