@@ -3,7 +3,7 @@
 
 - 🔭 I currently work using **Ruby on Rails, HTML, CSS, and JS**
 
-- 🌱 Presently learning how to use **Vue.js**
+- 🌱 Presently working on the **(Javascript in 30 days coding challenge)**[https://courses.wesbos.com/account]
 
 - 👯 I’m looking to collaborate on **fun projects**
 
