@@ -3,8 +3,7 @@
 
 - 🔭 I currently work using **Ruby on Rails, HTML, CSS, and JS**
 
-- 🌱 Presently working on the **[Javascript in 30 days coding challenge](https://courses.wesbos.com/account)** and also learning **React**
-
+- 🌱 Presently learning **React** and also working on the **[Javascript in 30 days coding challenge](https://javascript30.com/)**
 - 👨‍💻 All of my projects are available **[on my portfolio](https://opedada.me/)**
 
 - 👯 I’m looking to collaborate on **fun projects**
