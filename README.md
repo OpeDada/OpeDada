@@ -1,13 +1,10 @@
 <h1>Hi 👋, I'm Ope</h1>
 <h3>A passionate full stack developer, based in Tokyo.</h3>
 
-- 🔭 I currently work using **Ruby on Rails, HTML, CSS, and JS**
-
-- 🌱 Presently learning **React** and also working on the **[Javascript in 30 days coding challenge](https://javascript30.com/)**
+- 📚 Graduate of Le Wagon Coding Bootcamp Tokyo (Batch 656)
+- - 🌱 Presently Freelancing and also working on personal projects to develop my skills
+- 🔭 I currently use **Ruby on Rails, HTML, CSS, React, and JS** to work, while also learning new frameworks
 - 👨‍💻 All of my projects are available on my **[portfolio](https://opedada.me/)**
-
-- 👯 I’m looking to collaborate on **fun projects**
-
 - 📫 How to reach me **opedada@gmail.com**
 
 
@@ -15,7 +12,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/opemipo-dada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="opemipo dada" height="30" width="40" /></a>
   <a href="https://medium.com/@opedada_79780" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ope dada" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ope dada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ope dada" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
