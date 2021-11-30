@@ -2,7 +2,7 @@
 <h3>A passionate full stack developer, based in Tokyo.</h3>
 
 - 📚 Graduate of Le Wagon Coding Bootcamp Tokyo (Batch 656)
-- - 🌱 Presently Freelancing and also working on personal projects to develop my skills
+- 🌱 Presently Freelancing and also working on personal projects to develop my skills
 - 🔭 I currently use **Ruby on Rails, HTML, CSS, React, and JS** to work, while also learning new frameworks
 - 👨‍💻 All of my projects are available on my **[portfolio](https://opedada.me/)**
 - 📫 How to reach me **opedada@gmail.com**
