@@ -1,9 +1,7 @@
 <h1>Hi 👋, I'm Ope</h1>
 <h3>Frontend developer, based in Tokyo.</h3>
 
-- 📚 Graduate of Le Wagon Coding Bootcamp Tokyo
 - 🌱 Presently Freelancing and also working on personal projects
-- → You can also find me on **[Gitlab](https://gitlab.com/OpeDada)**
 - 🔭 I currently use **HTML, CSS, JS, React, and NextJS** to work.
 - 👨‍💻 You can find my projects here or check my **[portfolio](https://opedada.me/)**
 - 📫 How to reach me **opedada@gmail.com**
