@@ -1,12 +1,6 @@
 <h1>Hi 👋, I'm Ope</h1>
 <h3>Frontend developer, based in Tokyo.</h3>
 
-- 🌱 Presently Freelancing and also working on personal projects
-- 🔭 I currently use **HTML, CSS, JS, React, and NextJS** to work.
-- 👨‍💻 You can find my projects here or check my **[portfolio](https://opedada.me/)**
-- 📫 How to reach me **opedada@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/opemipo-dada/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="opemipo dada" height="30" width="40" /></a>
